@@ -25,6 +25,7 @@ yarn-error.log*
 .next/
 out/
 build/
+dist/
 
 # next/image cache
 .next/cache/
